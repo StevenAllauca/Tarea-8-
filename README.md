@@ -49,6 +49,130 @@ Ejercicios Capítulo 15
 
 Ejercicios Capítulo 16
 
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/94025287/154338275-afb58e2a-16b0-4f35-87d2-468ec8940606.png)
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/94025287/154323891-3dcb3137-b3f0-42f2-8724-f89ff1cab14f.png)
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+
+(a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/94025287/154322548-a11b0f06-5da1-4bd9-b39b-3e4d45e54926.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154322753-3ba88816-a7ab-49c2-83eb-f15ce42a3a56.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154322991-453e8980-6def-4be8-9816-7b7c9b15808b.png)
+
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+![image](https://user-images.githubusercontent.com/94025287/154321909-fc794c7d-d8bc-4164-b550-29082e2dacdc.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154321933-763cb9aa-dff4-4c6b-bfc0-1b775d506969.png)
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/94025287/154321395-cb84d582-fde0-49cc-9e05-cf3bd3f792e2.png)
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/94025287/154321151-59c8b50f-c16c-4a2f-ad5a-6a657cd1f132.png)
+
+23. Determine las siguientes cantidades en la figura 16-65:
+
+![image](https://user-images.githubusercontent.com/94025287/154320726-97b68cbe-bc9a-4fb1-9556-52d164bac443.png)
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/94025287/154319794-f4487864-a363-483a-ab43-4e84ab99c9d9.png)
+
+27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/94025287/154318949-eb5d6257-e99b-49f7-be87-88195423998a.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154319035-c9aee392-ee4e-4040-ad82-e622ec2ccdfc.png)
+
+29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+
+![image](https://user-images.githubusercontent.com/94025287/154316314-445812a1-6aa6-49c7-a0f3-b9321c2c41ec.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154317933-5dcaec08-5577-4c75-9a8a-70b772b5ba4a.png)
+
+*31. Para el circuito de la figura 16-70, determine lo siguiente:
+
+(a) I (b) V (c) Vab
+
+![image](https://user-images.githubusercontent.com/94025287/154314526-f599590f-9758-42f1-bd58-9a7a6a0202dd.png)
+
+(a)
+
+![image](https://user-images.githubusercontent.com/94025287/154315205-78eb683d-766e-423d-958c-977e5dc6c80a.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/94025287/154315632-a8ccf0ae-4584-409b-b218-0702e4d0a27f.png)
+
+(c)
+
+![image](https://user-images.githubusercontent.com/94025287/154315781-f8605bc0-bd45-49f8-afd8-12dcb9fc79a3.png)
+
+33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
+
+![image](https://user-images.githubusercontent.com/94025287/154313508-0c87f0fa-2e34-4702-b1ad-0fd386f1db68.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154314296-03f5c2ce-9565-4228-b629-dc8b2cafc69e.png)
+
+35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![image](https://user-images.githubusercontent.com/94025287/154313405-e343c18b-20b5-4df7-bf24-9437a96fc1f6.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154313422-932f3381-d6e4-40d5-92f4-2fe33f557c0e.png)
+
+37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/94025287/154311074-db5d4546-5f72-4037-b605-10f2b4a477b6.png)
+
+39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/94025287/154310160-da045831-6038-4dcf-9fac-df950d2cf6ab.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154310211-e60490ea-3c24-448d-8714-c4abd059ad1f.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154310273-e06674ee-7c9f-4cb8-a901-c569091ce82c.png)
+
+41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
+![image](https://user-images.githubusercontent.com/94025287/154306697-0ac2aa17-3c90-400c-b75d-aabbaa7733b7.png)
+
+43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+
+![image](https://user-images.githubusercontent.com/94025287/154305357-ba8119de-e262-4c5d-b68b-1e140a526159.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154305383-3bdc7447-79cd-40e8-81db-e646ec3e216e.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154305407-ecb43df7-9cac-487c-987c-c2a5708e0897.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154305424-4a77a110-8348-4fa9-bc4c-1de5f54f94bc.png)
+
+45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+
+(a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
+
+![image](https://user-images.githubusercontent.com/94025287/154300937-8c9204f0-9787-45b1-81e9-8bf40885c6ff.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154300975-9623b5d5-a623-41de-b171-47957fa0073c.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154300996-5ba5ff79-ddd7-4aa6-88b7-d3fcb0dda905.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154301026-e8919b58-e44e-464d-9372-e6ddac4dd73c.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154301050-2873e1eb-6f19-4030-b566-946f988beadf.png)
+
 4. Video:
 
 
