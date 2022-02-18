@@ -21,6 +21,7 @@ General:
 • Resolver los ejercicios de los capítulos 15 y 16 aplicando los conocimientos adquiridos referente a los Fundamentos de ca y Elementos R, L y C y el concepto de impedancia.
 
 Especificos:
+
 • Definir y calcular las diferencias de fase entre formas de onda cuadrada, triangular, rectangular y sinusoidal.
 
 • Calcular valores promedio y valores efectivos para formas de onda que varían en el tiempo.
@@ -285,8 +286,10 @@ Ejercicios Capítulo 16
 
 4. Video:
 
+https://youtu.be/cHcOdBwvyS0
 
 5. Conclusiones:
+
 • Con la resolución de los ejercicios del capítulo 15 se calculó el voltaje sinusoidal instantáneo, valores promedio, valores efectivos en cualquier instante de tiempo. Se identificó la polaridad del voltaje y las convenciones de dirección de la corriente que se usan para corriente alterna al igual que su forma de onda para voltaje y corriente.
 
 • Al haber resuelto los ejercicios observamos la importancia que tienen los números complejos en corriente alterna y lo necesario que es poder transformarlos de varias formas según se requiera.
