@@ -39,6 +39,7 @@ Especificos:
 
 Capítulo 15
 
+![image](https://user-images.githubusercontent.com/94025287/154707658-550e895d-ada8-443a-804a-212bb6ce7aea.png)
 
 Capítulo 16
 
@@ -46,6 +47,114 @@ Capítulo 16
 3. Explicación y Resolución de ejercicios o problemas:
 
 Ejercicios Capítulo 15
+
+1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo? 
+
+Con=Ϲ<θ
+
+Magnitud, longitud
+
+3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
+
+A) 3, j5                                                      B) -7, j1                                   C) - 10,- j10
+
+![image](https://user-images.githubusercontent.com/94025287/154707922-afa7689c-cd06-4388-bbbc-29b292584402.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154707982-0db57b2f-d357-442e-9006-e52b7d7db835.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154708017-9d34dcd9-ca3c-4db2-960d-d13a5fe78d72.png)
+
+5. Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 90° de los puntos del problema 3.
+
+![image](https://user-images.githubusercontent.com/94025287/154708055-678d0ebf-7aed-4452-bd7a-1ebb56e78f79.png)
+
+7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
+![image](https://user-images.githubusercontent.com/94025287/154708119-9a45fb2d-3245-4b17-81de-be1acc6e8e6d.png)
+
+9. Convierta cada uno de los siguientes números polares a forma rectangular:
+
+(a) 1000 ∠ - 50°
+
+(b) 15 ∠ 160°
+
+(c) 25 ∠ - 135°
+
+(d) 3 ∠ 180°
+
+Con=Ϲ<θ
+
+Con=Ϲ(θ)+j c Sen θ
+
+![image](https://user-images.githubusercontent.com/94025287/154708199-8b5417ad-c1ec-423a-80ee-4a54a8dcda78.png)
+
+11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+
+![image](https://user-images.githubusercontent.com/94025287/154708244-c0ed7a02-47cb-4bea-af1e-d13320974d9f.png)
+
+13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+
+![image](https://user-images.githubusercontent.com/94025287/154708319-7c1f8b0c-a149-4a85-9aaf-d8cde282be51.png)
+
+15. Realice las siguientes sustracciones:
+
+![image](https://user-images.githubusercontent.com/94025287/154708430-829df30b-ad88-4994-9e90-a20596186315.png)
+
+17. Realice las siguientes divisiones:
+
+![image](https://user-images.githubusercontent.com/94025287/154708530-35f5f4fc-953e-4eab-b517-8c520b28b0f7.png)
+
+19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
+Si se aplica un voltaje sinusoidal de 8 KHz a una serie RC circuito, la frecuencia del voltaje a través de ambos elementos es la misma que la frecuencia de la fuente. Eso significa que la frecuencia del voltaje en la resistencia es de 8KHz y la frecuencia del voltaje en el capacitor también es de 8 kHz.
+
+21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/94025287/154708607-dcffb7cb-a1a3-4072-9b2c-b2e901a06255.png)
+
+23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+
+(a) 100 Hz       (b) 500 Hz               (c) 1 kHz                (d) 2.5 kHz}
+
+![image](https://user-images.githubusercontent.com/94025287/154708778-6935aa9a-aaa0-4691-b1aa-84c9e863b929.png)
+
+25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+
+A) Z = 33Ω -j50Ω      B ) Z=300<-25°Ω   C) Z=1.8<-67.2° KΩ      D) Z=789<-45°Ω
+
+![image](https://user-images.githubusercontent.com/94025287/154708878-7aed0726-a172-4390-9370-a14096f9e262.png)
+
+27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/94025287/154708946-8a0588ab-72f1-4dec-a767-41b81fa35d9b.png)
+
+29. Inductancias de 8, 12, y 1.2 H están conectadas en un circuito. Si LT = 6H, ¿Cómo están conectados los inductores?
+
+![image](https://user-images.githubusercontent.com/94025287/154708988-2f78b416-240b-41a7-8d65-1436b5ccf0ea.png)
+
+31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+
+![image](https://user-images.githubusercontent.com/94025287/154709019-c3e4801a-c6de-4f62-860e-8d0597184f02.png)
+
+33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: P real = 400 W y un factor de potencia de adelanto (I tot aparece adelantada con respecto a Vs).
+
+![image](https://user-images.githubusercontent.com/94025287/154709075-c225a9fd-38b9-4bf9-a78b-f6aa13cca858.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154709122-6ebec112-9f12-46b9-a227-52095dc01642.png)
+
+
+35. El circuito de retraso de la figura 15-91 también actúa como filtro pasa bajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/94025287/154709148-e592c79b-893f-4eac-bd0a-889aac9121df.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154709199-ec282631-3710-4c4c-8732-c5fefab7b82c.png)
+
+37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/94025287/154709243-b9f6047c-6533-42d6-b715-fdaff5e1f638.png)
+
+![image](https://user-images.githubusercontent.com/94025287/154709278-7139f1c4-80ce-4b59-9229-e3bdf798b346.png)
+
 
 Ejercicios Capítulo 16
 
