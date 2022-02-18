@@ -43,6 +43,7 @@ Capítulo 15
 
 Capítulo 16
 
+![image](https://user-images.githubusercontent.com/94025287/154719957-cb521329-a1e6-4d0f-b861-d68807ed4146.png)
 
 3. Explicación y Resolución de ejercicios o problemas:
 
